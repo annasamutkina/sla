@@ -25,6 +25,7 @@ Nginx - Поиск в Google Trends показывает, что интерес 
 - **Лицензия:** Apache-2.0
 - **Stars:** 52.600
 - **Forks:** 3.800
+- **Contributions:** 260
 - **Issues:** 112
 - **Releases:** 112
 - **Last release:** 8 декабря, 2023 г.
@@ -53,6 +54,7 @@ Caddy начинает набирать популярность среди ра
 - **Лицензия:** BSD
 - **Stars:** 20.000
 - **Forks:** 6.500
+- **Contributions:** 112
 - **Releases:** 560
 - **Last release:** 14 февраля, 2024 г.
 - **Используемые ЯП:** C
